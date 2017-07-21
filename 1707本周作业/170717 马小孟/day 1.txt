@@ -1,0 +1,23 @@
+ps：
+ctrl + shift + alt + s  保存当前图片
+
+shift 选中多个切片（保存时）
+
+ctrl  可以拖动（保存时）
+
+图章工具，先Alt 吸色在涂
+
+ctrl+n 新建
+
+alt + del 填充
+
+ctrl+ shift + N 新建图层
+
+alt 可以直接复制
+
+ctrl + G 合并图层
+
+ctrl + t 旋转
+
+
+

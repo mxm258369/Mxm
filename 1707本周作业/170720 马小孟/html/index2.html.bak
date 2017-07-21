@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="../index.css">
+  
+  <title>!!!!css!!!!</title>
+ </head>
+ <body>
+	<div class="box1">
+		<p>div下的p1</p>
+			<div class="background-color">
+			<p>div下的p1</p>
+			</div>
+	</div>
+	<div id="box"><p>div下的p1</p></div>
+	<div ></div>
+
+ </body>
+</html>

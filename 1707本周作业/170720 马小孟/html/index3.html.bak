@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <title>伪类选择器</title>
+	<style>
+		#box h1{color:pink;}
+		#abox{width:200px;height:300px;background-color:#abcdef;}
+		#abox:hover a{background-color:#000;color:#fff;}
+	</style>
+ </head>
+	<body>
+		<div id="boxbox">
+			<div id="box">
+				<h1>嘿嘿嘿</h1>
+			</div>
+			<div class="xka">
+				<h1>我的小可爱</h1>
+			</div>
+		</div>
+		<div id="abox">
+			<a href="https:www.baidu.com">Let's go!</a>
+		</div>
+   </body>
+</html>

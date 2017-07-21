@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+	<head>
+		<title>第一边</title>
+		<meta charset="utf-8"/> <!--兼容主流的语言-->
+		<link rel="icon" href ="../mg.net.ico"/> <!--小图标的设置-->
+	</head>
+	<body bgcolor="#abcdef" text="red"> <!--背景色，字体颜色-->
+		<b>我</b> <!--加粗-->
+		<strong>马</strong> <!--加粗-->
+		<i>小</i> <!--字体倾斜-->
+		<em>孟</em><!--!字体倾斜-->
+		<s>真</s><!--!删除线-->
+		<del>的</del><!--删除线-->
+		<u>好</u><!--下划线-->
+		<sub>心</sub><!--上标-->
+		<sup>烦</sup><!--下标-->
+		<h1 align="center">心烦的一天</h1><!--align="center" 居中显示  -->
+		<h2>心烦一次</h2>
+		<h3>心烦二次</h3>
+		<h4>心烦三次</h4><!--标题标签 Hn n--6-->
+		<h5>心烦四次</h5>
+		<h6>心烦五次</h6>
+		<p>在让我心烦一会吧！</p><!--段落标签-->
+		<img src="../imger/xf.jpg" alt="让我静静" valign="middle" title="doge" / ><!--行内块元素，可以设置宽高  valign="middle"垂直于图片居中 title="doge"设置标题为** -->
+		<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><!--换行-->
+		<pre>
+		让明
+			天
+				会
+					好
+						点
+							吧
+								！
+		</pre><!--换行-->
+		<p>
+			<span class="" id="" style="" title="不开心的一天呀">超级的郁闷</span>
+			<span >糟糕透了</span><!--<span>行类分区标签</span>-->
+		</p>
+		<span valign="top">这是挂科的烦恼呀！</span>
+		<a href="http://www.baidu.com">百度一下</a><!--跳转到百度-->
+			<a href="#">回到dog</a><!--锚点-->
+			<a href="\Users\Administrator\Desktop\170718 马小孟/lol.rar">下载文件</a>
+			<a href="tel:17614748112">联系我们</a>
+			<a href="javascript:alert(666)">弹出对话框</a><!--弹出对话框-->
+	</body>
+</html>

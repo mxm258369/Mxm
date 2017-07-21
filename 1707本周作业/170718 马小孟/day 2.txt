@@ -1,0 +1,131 @@
+html
+ 
+<！doctype html>声明--用什么版本进行解析
+<html>
+<head> 头部
+
+最新更新：mozilla 看
+
+浏览器的内核不一样、
+Trident 三叉戟  ie、遨游、腾讯、360内核（不开源）
+
+Gecko 壁虎   Mozilla Firefox(开源)
+
+Presto 迅速的   Opera 渲染速度最快的引擎
+
+Wrbkit        Safari 内核 Chrome内核原型 （苹果自己的内核）
+
+Blink     Google 和 Opera开发的浏览器内核
+
+
+B/S：（浏览器/服务器）
+
+IE、Firefox、Gogle chrome、Safar、Opred
+html：
+
+
+HTML（Hyper Text Markup Language）超文本标记语言
+
+标签：以"<"开始">"结尾
+
+注释：<！-->给程序员看的
+
+Utf-8 兼容主流的语言
+
+gb2312   指的是中文 （确保该网站没有一点中文时候用）
+
+meta 标签 （单标签）
+
+easyicon（http://www.easyicon.net/）
+小图标
+
+空格的转译字符：“&nbsp；”
+"<"的转译字符：“&lt；”
+">"的转译字符：“&gT；”
+
+<b></b> <strong></strong>
+同样是加粗 标签
+
+<i></i> <em></em>
+字体倾斜
+
+
+<s></s> <del></del>
+加删除线
+
+<u></u>
+下划线
+
+<sub></sub>
+下标
+
+<sup></sup>
+上标
+
+<h1></h1>-<h6></h6>
+标题标签，标题一到六都能用
+
+<p></p>
+段落标签
+
+align：三种显示 center（居中）left（左）right（右）
+
+<br />
+换行
+
+<he /> ：size（粗细） color（颜色） （width）宽度 三个属性
+分割线
+ 
+<div></div>
+块标签（没有人和意义的）
+
+<pre></pre>
+保留文本中的换行等...
+<spen></spen>
+行内标签
+
+URL
+Url分两种：绝对，相对
+绝对路径必须有网；
+相对路径"../"提升优先级
+
+没个标签都具备4个标准属性：
+①：class=“”
+②：id=“”
+③：style=“”
+④：title=“”
+
+img：标签 必须有 src
+（行内块元素）
+行内不可以设置宽高
+块可以设置宽高
+
+alt：提示文本
+在图片不显示时，提示该图片内容
+alt=“”
+
+valign=“middle”中间对齐
+         bottom   上对齐
+      
+
+<a href=“路径，例如：“http：www.baidu.com” ></a>
+超链接标签  href=“路径，例如：”   
+ target=“blank”在新页面中打开，
+不写在原来页面打开
+<a herf="dog">回到顶部</a>(锚点)
+
+
+所有代码敲3边；
+可不可以跳转别的页面上的锚点
+a跳b页面锚点
+课下查资料
+
+
+
+
+
+
+
+
+
+

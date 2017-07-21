@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  
+  <title>统计表</title>
+ </head>
+ <body>
+	<table width="500px" height="200px" border="1"  rules="all" bgcolor="#abcdef" align="center">
+	    <caption>耕地保有量表格</caption>
+		<thead>
+			<tr>
+				<td rowspan="3" align="center">地区</td>
+				<td rowspan="2" colspan="2" align="center">2005年耕地面积</td>
+				<td colspan="4" align="center">耕地保有量</td>
+				<td rowspan="2" colspan="2" align="center">基本农田保护面积</td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center">2010年</td>
+				<td colspan="2" align="center">2020年</td>
+			</tr>
+			<tr>
+				<td align="center">万公顷</td>
+				<td align="center">万亩</td>
+				<td align="center">万公顷</td>
+				<td align="center">万亩</td>
+				<td align="center">万公顷</td>
+				<td align="center">万亩</td>
+				<td align="center">万公顷</td>
+				<td align="center">万亩</td>
+			</tr>
+		</thead>
+			
+		<tbody>
+				<tr align="center">
+					<td>北京</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+				</tr>
+				<tr align="center">
+					<td>北京</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+				</tr>
+				<tr align="center">
+					<td>北京</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+				</tr>
+				<tr align="center">
+					<td>北京</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+					<td>123</td>
+				</tr>
+			<tbody>
+			
+	</table>
+ </body>
+</html>
